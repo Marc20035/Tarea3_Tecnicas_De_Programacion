@@ -3,7 +3,7 @@
 * Este es mi repositorio:  https://github.com/Marc20035/Tarea3_Tecnicas_De_Programacion.git
 # Ejercicios
 
- *  1 El tiempo
+ *  __1 El tiempo__
  
 Escriba un algoritmo que muestre "riesgo de hielo", si la temperatura introducida es inferior a 2°C.
 
