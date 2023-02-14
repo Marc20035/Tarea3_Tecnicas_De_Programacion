@@ -7,7 +7,7 @@
  
 Escriba un algoritmo que muestre "riesgo de hielo", si la temperatura introducida es inferior a 2°C.
 
- * 2 El tiempo versión 2
+ * __2 El tiempo versión 2__
  
 Modificar el algoritmo anterior para mostrar un mensaje según la temperatura:
 
@@ -31,11 +31,11 @@ t ≥ 30
 
 Demasiado calor
 
- * 3. El nombre del mes
+ * __3 El nombre del mes__
 
 Escriba el nombre del mes completo en función de su número (introducido por el usuario).
 
- * 4. El tiempo de cocción
+ * __4 El tiempo de cocción__
  
 Sabiendo que:
 
@@ -59,7 +59,7 @@ El tiempo de cocción es proporcional al peso.
 
 Dependiendo de la información introducida por el usuario (tipo de carne, modo de cocción y peso), mostrar el tiempo de cocción de una carne en segundos.
 
- * 5. La nómina
+ * __5 La nómina__
  
 Mostrar la nómina simplificada de un empleado a partir de la información introducida. El salario bruto depende de la cantidad de horas trabajadas y su tarifa por hora:
 
